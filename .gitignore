@@ -1,0 +1,16 @@
+# venv / кэш / IDE
+.venv/
+venv/
+__pycache__/
+.idea/
+*.pyc
+
+# секреты
+.env
+*.env
+test_wallets.txt
+*.key
+*.pem
+*.p12
+*.keystore
+*.json.secret
