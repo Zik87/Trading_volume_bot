@@ -5,13 +5,14 @@ __pycache__/
 .idea/
 *.pyc
 
-# секреты
+# secrets
+/test_wallet.txt
+**/test_wallet.txt
 .env
 *.env
-test_wallets.txt
-*test_wallets.txt
 *.key
 *.pem
 *.p12
 *.keystore
 *.json.secret
+
